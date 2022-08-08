@@ -44,4 +44,4 @@ A estrutura de pastas está organizada da seguinte forma:
 
 Caso aconteça algum imprevisto, você pode conferir os testes completos na branch `conteudo-completo`.
 
-Bons estudos!
+Bons estudos.
